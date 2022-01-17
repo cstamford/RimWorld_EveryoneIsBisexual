@@ -1,0 +1,14 @@
+<ModMetaData>
+  <name>Everyone Is Bisexual!</name>
+  <author>Xenofell</author>
+  <url>https://steamcommunity.com/id/Xenofell/myworkshopfiles/?appid=294100</url>
+  <packageId>Xenofell.EveryoneIsBisexual</packageId>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <description>
+    This mod forces all eligible pawns to spawn with the Bisexual trait. It increases the maximum trait count by 1 when this occurs to ensure that a useful trait is not lost.
+
+    Source code: https://github.com/cstamford/RimWorld_EveryoneIsBisexual
+  </description>
+</ModMetaData>
