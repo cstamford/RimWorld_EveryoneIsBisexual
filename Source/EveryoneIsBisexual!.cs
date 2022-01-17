@@ -19,8 +19,6 @@ namespace EveryoneIsBisexual
         }
     }
 
-    // This patch redirects the foreach loop to our function which filters each item based on settings.
-    [HarmonyDebug]
     [HarmonyPatch(typeof(PawnGenerator), "GenerateTraits")]
     public static class PawnGenerator__GenerateTraits
     {
